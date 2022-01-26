@@ -1,0 +1,8 @@
+* {
+    font-size: 56px;
+    color: black;
+}
+.container {
+    margin: 0 auto;
+    background-color: aqua;
+}
